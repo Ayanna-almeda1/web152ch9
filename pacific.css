@@ -45,9 +45,6 @@ nav ul {
 	margin: 0; /*m0*/
 	padding-left: 0; /*pl0*/
 }
-nav li {
-	border-bottom: 1px solid #002171; /*bdb c#002171*/
-}
 nav a {
 	text-decoration: none; /* txd */
 }
